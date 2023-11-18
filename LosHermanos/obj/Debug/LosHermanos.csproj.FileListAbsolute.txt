@@ -1,0 +1,46 @@
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.Form1.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.Properties.Resources.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormAlquilerAutomoviles.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\bin\Debug\LosHermanos.exe.config
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\bin\Debug\LosHermanos.exe
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\bin\Debug\LosHermanos.pdb
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.exe
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.pdb
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormMenuPrincipal.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormListadoClientes.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormListadoAutomoviles.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormListadoSucursales.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormListadoUsuarios.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormListadoAlquileres.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormMantenimientoAutomoviles.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormMantenimientoClientes.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormMantenimientoSucursales.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormMantenimientoUsuarios.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormDevolucionAutomoviles.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\bin\Debug\LosHermanos.exe.config
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\bin\Debug\LosHermanos.exe
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\bin\Debug\LosHermanos.pdb
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.Form1.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormAlquilerAutomoviles.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormDevolucionAutomoviles.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormListadoAlquileres.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormListadoAutomoviles.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormListadoClientes.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormListadoSucursales.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormListadoUsuarios.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormMantenimientoAutomoviles.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormMantenimientoClientes.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormMantenimientoSucursales.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormMantenimientoUsuarios.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.FormMenuPrincipal.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.Properties.Resources.resources
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.exe
+C:\Users\Usuario\Documents\UMG\SEPTIMO SEMESTRE\Proyecto\ProyectosenC#\LosHermanos\LosHermanos\obj\Debug\LosHermanos.pdb
